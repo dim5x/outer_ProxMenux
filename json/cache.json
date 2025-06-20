@@ -4,1353 +4,1637 @@
     "fr": "Langue changée en",
     "de": "Sprache geändert zu",
     "it": "Lingua cambiata in",
-    "pt": "Idioma alterado para"
+    "pt": "Idioma alterado para",
+    "ru": "Язык изменён на"
   },
   "Main Menu": {
     "es": "Menú principal",
     "fr": "Menu principal",
     "de": "Hauptmenü",
     "it": "Menu principale",
-    "pt": "Menu principal"
+    "pt": "Menu principal",
+    "ru": "Главное меню"
   },
   "Select an option:": {
     "es": "Seleccione una opción:",
-    "fr": "Sélectionnez une option :",
+    "fr": "Sélectionnez une option:",
     "de": "Wählen Sie eine Option aus:",
     "it": "Selezionare un'opzione:",
-    "pt": "Selecione uma opção:"
+    "pt": "Selecione uma opção:",
+    "ru": "Выберите вариант:"
   },
   "GPUs and Coral-TPU": {
     "es": "GPUs y Coral-TPU",
     "fr": "GPUs et Coral-TPU",
     "de": "GPUs und Coral-TPU",
     "it": "GPUs e Coral-TPU",
-    "pt": "GPUs e Coral-TPU"
+    "pt": "GPUs e Coral-TPU",
+    "ru": "GPUs и Coral-TPU"
   },
   "Hard Drives, Disk Images, and Storage": {
     "es": "Discos y almacenamiento",
     "fr": "Disques et stockage",
     "de": "Festplatten und Speicher",
     "it": "Dischi e archiviazione",
-    "pt": "Discos e armazenamento"
+    "pt": "Discos e armazenamento",
+    "ru": "Жёсткие диски, образы дисков и хранилища"
   },
   "Network": {
     "es": "Red",
     "fr": "Réseau",
     "de": "Netzwerk",
     "it": "Rete",
-    "pt": "Rede"
+    "pt": "Rede",
+    "ru": "Сеть"
   },
   "Settings": {
     "es": "Configuración",
     "fr": "Paramètres",
     "de": "Einstellungen",
     "it": "Impostazioni",
-    "pt": "Configurações"
+    "pt": "Configurações",
+    "ru": "Настройки"
   },
   "Exit": {
     "es": "Salir",
     "fr": "Quitter",
     "de": "Beenden",
     "it": "Esci",
-    "pt": "Sair"
+    "pt": "Sair",
+    "ru": "Выход"
   },
   "HW: GPUs and Coral": {
     "es": "HW: GPUs y Coral",
     "fr": "HW: GPUs et Coral",
     "de": "HW: GPUs und Coral",
     "it": "HW: GPUs e Coral",
-    "pt": "HW: GPUs e Coral"
+    "pt": "HW: GPUs e Coral",
+    "ru": "HW: GPUs и Coral"
   },
   "Return to Main Menu": {
     "es": "Volver al menú principal",
     "fr": "Retour au menu principal",
     "de": "Zum Hauptmenü zurückkehren",
     "it": "Torna al menu principale",
-    "pt": "Retornar ao menu principal"
+    "pt": "Retornar ao menu principal",
+    "ru": "Возврат в Главное меню"
   },
   "Disk and Storage Menu": {
     "es": "Menú de discos y almacenamiento",
     "fr": "Menu des disques et stockage",
     "de": "Datenträger- und Speichermenü",
     "it": "Menu dischi e archiviazione",
-    "pt": "Menu de discos e armazenamento"
+    "pt": "Menu de discos e armazenamento",
+    "ru": "Меню «Диски и хранилища»"
   },
   "Add Disk Passthrough to a VM": {
     "es": "Añadir disco Passthrough a VM",
     "fr": "Ajouter disque Passthrough à VM",
     "de": "Disk-Passthrough zu VM hinzufügen",
     "it": "Aggiungi passthrough disco a VM",
-    "pt": "Adicionar passthrough de disco a VM"
+    "pt": "Adicionar passthrough de disco a VM",
+    "ru": "Добавить диск к виртуальной машине"
   },
   "Network Menu": {
     "es": "Menú de red",
     "fr": "Menu réseau",
     "de": "Netzwerkmenü",
     "it": "Menu di rete",
-    "pt": "Menu de rede"
+    "pt": "Menu de rede",
+    "ru": "Меню для Сети"
   },
   "Repair Network": {
     "es": "Reparar red",
     "fr": "Réparer le réseau",
     "de": "Netzwerk reparieren",
     "it": "Riparare la rete",
-    "pt": "Reparar rede"
+    "pt": "Reparar rede",
+    "ru": "Восстановление Сети"
   },
   "Configuration Menu": {
     "es": "Menú de configuración",
     "fr": "Menu de configuration",
     "de": "Konfigurationsmenü",
     "it": "Menu di configurazione",
-    "pt": "Menu de configuração"
+    "pt": "Menu de configuração",
+    "ru": "Меню конфигурации"
   },
   "Change Language": {
     "es": "Cambiar idioma",
     "fr": "Changer de langue",
     "de": "Sprache ändern",
     "it": "Cambia lingua",
-    "pt": "Alterar idioma"
+    "pt": "Alterar idioma",
+    "ru": "Изменить язык"
   },
   "Show Version Information": {
     "es": "Mostrar versión",
     "fr": "Afficher version",
     "de": "Version anzeigen",
     "it": "Mostra versione",
-    "pt": "Mostrar versão"
+    "pt": "Mostrar versão",
+    "ru": "Показать информацию о версии"
   },
   "Uninstall ProxMenu": {
     "es": "Desinstalar ProxMenu",
     "fr": "Désinstaller ProxMenu",
     "de": "ProxMenu deinstallieren",
     "it": "Disinstallare ProxMenu",
-    "pt": "Desinstalar ProxMenu"
+    "pt": "Desinstalar ProxMenu",
+    "ru": "Удалить ProxMenu"
   },
   "Select a new language for the menu:": {
     "es": "Seleccione idioma para el menú:",
     "fr": "Sélectionnez langue pour le menu :",
     "de": "Wählen Sie Sprache für das Menü:",
     "it": "Seleziona lingua per il menu:",
-    "pt": "Selecione idioma para o menu:"
+    "pt": "Selecione idioma para o menu:",
+    "ru": "Выберите новый язык для меню:"
   },
   "English (Recommended)": {
     "es": "Inglés (recomendado)",
     "fr": "Anglais (recommandé)",
     "de": "Englisch (empfohlen)",
     "it": "Inglese (consigliato)",
-    "pt": "Inglês (recomendado)"
+    "pt": "Inglês (recomendado)",
+    "ru": "Английский (рекомендовано)"
   },
   "Spanish": {
     "es": "Español",
     "fr": "Espagnol",
     "de": "Spanisch",
     "it": "Spagnolo",
-    "pt": "Espanhol"
+    "pt": "Espanhol",
+    "ru": "Испанский"
   },
   "French": {
     "es": "Francés",
     "fr": "Français",
     "de": "Französisch",
     "it": "Francese",
-    "pt": "Francês"
+    "pt": "Francês",
+    "ru": "Французский"
   },
   "German": {
     "es": "Alemán",
     "fr": "Allemand",
     "de": "Deutsch",
     "it": "Tedesco",
-    "pt": "Alemão"
+    "pt": "Alemão",
+    "ru": "Немецкий"
   },
   "Italian": {
     "es": "Italiano",
     "fr": "Italien",
     "de": "Italienisch",
     "it": "Italiano",
-    "pt": "Italiano"
+    "pt": "Italiano",
+    "ru": "Итальянский"
   },
   "Portuguese": {
     "es": "Portugués",
     "fr": "Portugais",
     "de": "Portugiesisch",
     "it": "Portoghese",
-    "pt": "Português"
+    "pt": "Português",
+    "ru": "Португальский"
   },
   "Simplified Chinese": {
     "es": "Chino simplificado",
     "fr": "Chinois simplifié",
     "de": "Vereinfachtes Chinesisch",
     "it": "Cinese semplificato",
-    "pt": "Chinês simplificado"
+    "pt": "Chinês simplificado",
+    "ru": "Упрощённый китайский"
   },
   "Japanese": {
     "es": "Japonés",
     "fr": "Japonais",
     "de": "Japanisch",
     "it": "Giapponese",
-    "pt": "Japonês"
+    "pt": "Japonês",
+    "ru": "Японский"
   },
   "Thank you for using ProxMenu. Goodbye!": {
     "es": "Gracias por usar ProxMenu. ¡Adiós!",
     "fr": "Merci d'avoir utilisé ProxMenu. Au revoir!",
     "de": "Danke für die Nutzung von ProxMenu. Auf Wiedersehen!",
     "it": "Grazie per aver usato ProxMenu. Arrivederci!",
-    "pt": "Obrigado por usar o ProxMenu. Adeus!"
+    "pt": "Obrigado por usar o ProxMenu. Adeus!",
+    "ru": "Спасибо за использование ProxMenu. До свидания!"
   },
   "Uninstall ProxMenux": {
     "es": "Desinstalar ProxMenux",
     "fr": "Désinstaller ProxMenux",
     "de": "ProxMenux deinstallieren",
     "it": "Disinstallare ProxMenux",
-    "pt": "Desinstalar ProxMenux"
+    "pt": "Desinstalar ProxMenux",
+    "ru": "Удалить ProxMenux"
   },
   "Main ProxMenux": {
     "es": "ProxMenux principal",
     "fr": "ProxMenux principal",
     "de": "ProxMenux Hauptmenü",
     "it": "ProxMenux principale",
-    "pt": "ProxMenux principal"
+    "pt": "ProxMenux principal",
+    "ru": "ProxMenux Главное"
   },
   "Settings post-install Proxmox": {
     "es": "Configuración post-instalación",
     "fr": "Paramètres post-installation",
     "de": "Einstellungen nach Installation",
     "it": "Impostazioni post-installazione",
-    "pt": "Configurações pós-instalação"
+    "pt": "Configurações pós-instalação",
+    "ru": "Настройки после установки Proxmox"
   },
   "Hardware: GPUs and Coral-TPU": {
     "es": "Hardware: GPUs y Coral-TPU",
     "fr": "Matériel: GPUs et Coral-TPU",
     "de": "Hardware: GPUs und Coral-TPU",
     "it": "Hardware: GPUs e Coral-TPU",
-    "pt": "Hardware: GPUs e Coral-TPU"
+    "pt": "Hardware: GPUs e Coral-TPU",
+    "ru": "Аппаратное обеспечение: графические процессоры и Coral-TPU"
   },
   "Proxmox VE Helper Scripts": {
     "es": "Proxmox VE Helper Scripts",
     "fr": "Proxmox VE Helper Scripts",
-    "de": "Proxmox VE Helper Scriptse",
+    "de": "Proxmox VE Helper Scripts",
     "it": "Proxmox VE Helper Scripts",
-    "pt": "Proxmox VE Helper Scripts"
+    "pt": "Proxmox VE Helper Scripts",
+    "ru": "Вспомогательные скрипты Proxmox VE"
   },
   "Generating automatic translations...": {
     "es": "Generando traducciones...",
     "fr": "Génération de traductions...",
     "de": "Übersetzungen werden generiert...",
     "it": "Generazione traduzioni...",
-    "pt": "Gerando traduções..."
+    "pt": "Gerando traduções...",
+    "ru": "Создание автоматических переводов..."
   },
   "Name": {
     "es": "Nombre",
     "fr": "Nom",
     "de": "Name",
     "it": "Nome",
-    "pt": "Nome"
+    "pt": "Nome",
+    "ru": "Имя"
   },
   "Repository": {
     "es": "Repositorio",
     "fr": "Dépôt",
     "de": "Repository",
     "it": "Repository",
-    "pt": "Repositório"
+    "pt": "Repositório",
+    "ru": "Репозиторий"
   },
   "Customizable script post-installation": {
     "es": "Script personalizable",
     "fr": "Script personnalisable",
     "de": "Anpassbares Skript",
     "it": "Script personalizzabile",
-    "pt": "Script personalizável"
+    "pt": "Script personalizável",
+    "ru": "Настраиваемый скрипт после установки"
   },
   "Proxmox VE Post Install": {
     "es": "Post-instalación Proxmox VE",
     "fr": "Post-installation Proxmox VE",
     "de": "Proxmox VE Nachinstallation",
     "it": "Post-installazione Proxmox VE",
-    "pt": "Pós-instalação Proxmox VE"
+    "pt": "Pós-instalação Proxmox VE",
+    "ru": "Proxmox VE после установки"
   },
   "xshok-proxmox Post install": {
     "es": "Post-instalación xshok-proxmox",
     "fr": "Post-installation xshok-proxmox",
     "de": "xshok-proxmox Nachinstallation",
     "it": "Post-installazione xshok-proxmox",
-    "pt": "Pós-instalação xshok-proxmox"
+    "pt": "Pós-instalação xshok-proxmox",
+    "ru": "xshok-proxmox после установки"
   },
   "Post-Installation Scripts Menu": {
     "es": "Menú de scripts post-instalación",
     "fr": "Menu scripts post-installation",
     "de": "Nachinstallationsskripte Menü",
     "it": "Menu script post-installazione",
-    "pt": "Menu de scripts pós-instalação"
+    "pt": "Menu de scripts pós-instalação",
+    "ru": "Меню послеустановочных скриптов"
   },
   "Description": {
     "es": "Descripción",
     "fr": "Description",
     "de": "Beschreibung",
     "it": "Descrizione",
-    "pt": "Descrição"
+    "pt": "Descrição",
+    "ru": "Описание"
   },
   "Category": {
     "es": "Categoría",
     "fr": "Catégorie",
     "de": "Kategorie",
     "it": "Categoria",
-    "pt": "Categoria"
+    "pt": "Categoria",
+    "ru": "Категория"
   },
   "Basic Settings": {
     "es": "Configuración básica",
     "fr": "Paramètres de base",
     "de": "Grundeinstellungen",
     "it": "Impostazioni di base",
-    "pt": "Configurações básicas"
+    "pt": "Configurações básicas",
+    "ru": "Базовые настройки"
   },
   "Install common system utilities": {
     "es": "Instalar utilidades del sistema",
     "fr": "Installer utilitaires système",
     "de": "Systemdienstprogramme installieren",
     "it": "Installare utilità di sistema",
-    "pt": "Instalar utilitários do sistema"
+    "pt": "Instalar utilitários do sistema",
+    "ru": "Установить общие системные утилиты"
   },
   "Skip downloading additional languages": {
     "es": "Omitir descarga de idiomas",
     "fr": "Ignorer téléchargement langues",
     "de": "Sprachendownload überspringen",
     "it": "Saltare download lingue",
-    "pt": "Ignorar download de idiomas"
+    "pt": "Ignorar download de idiomas",
+    "ru": "Пропустить загрузку дополнительных языков"
   },
   "Synchronize time automatically": {
     "es": "Sincronizar hora automáticamente",
     "fr": "Synchroniser l'heure auto",
     "de": "Zeit automatisch synchronisieren",
     "it": "Sincronizzare ora automaticamente",
-    "pt": "Sincronizar hora automaticamente"
+    "pt": "Sincronizar hora automaticamente",
+    "ru": "Синхронизировать время автоматически"
   },
   "Update and upgrade system": {
     "es": "Actualizar sistema",
     "fr": "Mettre à jour système",
     "de": "System aktualisieren",
     "it": "Aggiornare sistema",
-    "pt": "Atualizar sistema"
+    "pt": "Atualizar sistema",
+    "ru": "Обновление и модернизация системы"
   },
   "System": {
     "es": "Sistema",
     "fr": "Système",
     "de": "System",
     "it": "Sistema",
-    "pt": "Sistema"
+    "pt": "Sistema",
+    "ru": "Система"
   },
   "Enable fast reboots": {
     "es": "Activar reinicios rápidos",
     "fr": "Activer redémarrages rapides",
     "de": "Schnelle Neustarts aktivieren",
     "it": "Attivare riavvii rapidi",
-    "pt": "Ativar reinícios rápidos"
+    "pt": "Ativar reinícios rápidos",
+    "ru": "Включить быструю перезагрузку"
   },
   "Enable restart on kernel panic": {
     "es": "Reiniciar en pánico del kernel",
     "fr": "Redémarrer sur panique kernel",
     "de": "Neustart bei Kernel-Panik",
     "it": "Riavviare su kernel panic",
-    "pt": "Reiniciar em pânico do kernel"
+    "pt": "Reiniciar em pânico do kernel",
+    "ru": "Включить перезагрузку при панике ядра"
   },
   "Ensure entropy pools are populated": {
     "es": "Asegurar pools de entropía",
     "fr": "Assurer pools d'entropie",
     "de": "Entropiepools sicherstellen",
     "it": "Garantire pool di entropia",
-    "pt": "Garantir pools de entropia"
+    "pt": "Garantir pools de entropia",
+    "ru": "Обеспечить заполнение пулов энтропии"
   },
   "Increase various system limits": {
     "es": "Aumentar límites del sistema",
     "fr": "Augmenter limites système",
     "de": "Systemgrenzen erhöhen",
     "it": "Aumentare limiti di sistema",
-    "pt": "Aumentar limites do sistema"
+    "pt": "Aumentar limites do sistema",
+    "ru": "Увеличьте различные системные лимиты"
   },
   "Install kernel headers": {
     "es": "Instalar headers del kernel",
     "fr": "Installer en-têtes kernel",
     "de": "Kernel-Header installieren",
     "it": "Installare header kernel",
-    "pt": "Instalar headers do kernel"
+    "pt": "Instalar headers do kernel",
+    "ru": "Установить заголовки ядра"
   },
   "Optimize journald": {
     "es": "Optimizar journald",
     "fr": "Optimiser journald",
     "de": "Journald optimieren",
     "it": "Ottimizzare journald",
-    "pt": "Otimizar journald"
+    "pt": "Otimizar journald",
+    "ru": "Оптимизировать journald"
   },
   "Optimize logrotate": {
     "es": "Optimizar logrotate",
     "fr": "Optimiser logrotate",
     "de": "Logrotate optimieren",
     "it": "Ottimizzare logrotate",
-    "pt": "Otimizar logrotate"
+    "pt": "Otimizar logrotate",
+    "ru": "Оптимизировать logrotate"
   },
   "Virtualization": {
     "es": "Virtualización",
     "fr": "Virtualisation",
     "de": "Virtualisierung",
     "it": "Virtualizzazione",
-    "pt": "Virtualização"
+    "pt": "Virtualização",
+    "ru": "Виртуализация"
   },
   "Enable VFIO IOMMU support": {
     "es": "Activar soporte VFIO IOMMU",
     "fr": "Activer support VFIO IOMMU",
     "de": "VFIO IOMMU-Unterstützung",
     "it": "Attivare supporto VFIO IOMMU",
-    "pt": "Ativar suporte VFIO IOMMU"
+    "pt": "Ativar suporte VFIO IOMMU",
+    "ru": "Включить поддержку VFIO IOMMU"
   },
   "Install relevant guest agent": {
     "es": "Instalar agente invitado",
     "fr": "Installer agent invité",
     "de": "Gast-Agent installieren",
     "it": "Installare agente guest",
-    "pt": "Instalar agente convidado"
+    "pt": "Instalar agente convidado",
+    "ru": "Установить соответствующий гостевой агент"
   },
   "KSM control daemon": {
     "es": "Daemon de control KSM",
     "fr": "Démon de contrôle KSM",
     "de": "KSM-Kontrolldaemon",
     "it": "Daemon di controllo KSM",
-    "pt": "Daemon de controle KSM"
+    "pt": "Daemon de controle KSM",
+    "ru": "Демон управления KSM"
   },
   "Apply network optimizations": {
     "es": "Optimizar red",
     "fr": "Optimiser réseau",
     "de": "Netzwerk optimieren",
     "it": "Ottimizzare rete",
-    "pt": "Otimizar rede"
+    "pt": "Otimizar rede",
+    "ru": "Применить оптимизацию сети"
   },
   "Enable TCP BBR/Fast Open control": {
     "es": "Activar TCP BBR/Fast Open",
     "fr": "Activer TCP BBR/Fast Open",
     "de": "TCP BBR/Fast Open aktivieren",
     "it": "Attivare TCP BBR/Fast Open",
-    "pt": "Ativar TCP BBR/Fast Open"
+    "pt": "Ativar TCP BBR/Fast Open",
+    "ru": "Включить управление TCP BBR/Fast Open"
   },
   "Force APT to use IPv4": {
     "es": "Forzar APT a usar IPv4",
     "fr": "Forcer APT à utiliser IPv4",
     "de": "APT zur IPv4-Nutzung zwingen",
     "it": "Forzare APT a usare IPv4",
-    "pt": "Forçar APT a usar IPv4"
+    "pt": "Forçar APT a usar IPv4",
+    "ru": "Заставить APT использовать IPv4"
   },
   "Install Open vSwitch": {
     "es": "Instalar Open vSwitch",
     "fr": "Installer Open vSwitch",
     "de": "Open vSwitch installieren",
     "it": "Installare Open vSwitch",
-    "pt": "Instalar Open vSwitch"
+    "pt": "Instalar Open vSwitch",
+    "ru": "Установить Open vSwitch"
   },
   "Storage": {
     "es": "Almacenamiento",
     "fr": "Stockage",
     "de": "Speicher",
     "it": "Archiviazione",
-    "pt": "Armazenamento"
+    "pt": "Armazenamento",
+    "ru": "Хранилище"
   },
   "Increase vzdump backup speed": {
     "es": "Aumentar velocidad de backup",
     "fr": "Augmenter vitesse sauvegarde",
     "de": "Backup-Geschwindigkeit erhöhen",
     "it": "Aumentare velocità backup",
-    "pt": "Aumentar velocidade de backup"
+    "pt": "Aumentar velocidade de backup",
+    "ru": "Увеличить скорость резервного копирования vzdump"
   },
   "Install ZFS auto-snapshot": {
     "es": "Instalar ZFS auto-snapshot",
     "fr": "Installer ZFS auto-snapshot",
     "de": "ZFS Auto-Snapshot installieren",
     "it": "Installare ZFS auto-snapshot",
-    "pt": "Instalar ZFS auto-snapshot"
+    "pt": "Instalar ZFS auto-snapshot",
+    "ru": "Установить auto-snapshot ZFS"
   },
   "Optimize ZFS ARC size": {
     "es": "Optimizar tamaño ZFS ARC",
     "fr": "Optimiser taille ZFS ARC",
     "de": "ZFS ARC-Größe optimieren",
     "it": "Ottimizzare dimensione ZFS ARC",
-    "pt": "Otimizar tamanho ZFS ARC"
+    "pt": "Otimizar tamanho ZFS ARC",
+    "ru": "Оптимизировать размер ZFS ARC"
   },
   "Security": {
     "es": "Seguridad",
     "fr": "Sécurité",
     "de": "Sicherheit",
     "it": "Sicurezza",
-    "pt": "Segurança"
+    "pt": "Segurança",
+    "ru": "Безопасность"
   },
   "Disable portmapper/rpcbind": {
     "es": "Desactivar portmapper/rpcbind",
     "fr": "Désactiver portmapper/rpcbind",
     "de": "Portmapper/rpcbind deaktivieren",
     "it": "Disattivare portmapper/rpcbind",
-    "pt": "Desativar portmapper/rpcbind"
+    "pt": "Desativar portmapper/rpcbind",
+    "ru": "Отключить portmapper/rpcbind"
   },
   "Install Lynis security tool": {
     "es": "Instalar herramienta Lynis",
     "fr": "Installer outil Lynis",
     "de": "Lynis-Sicherheitstool installieren",
     "it": "Installare strumento Lynis",
-    "pt": "Instalar ferramenta Lynis"
+    "pt": "Instalar ferramenta Lynis",
+    "ru": "Установить средство безопасности Lynis"
   },
   "Protect web interface with fail2ban": {
     "es": "Proteger interfaz con fail2ban",
     "fr": "Protéger interface avec fail2ban",
     "de": "Weboberfläche mit fail2ban schützen",
     "it": "Proteggere interfaccia con fail2ban",
-    "pt": "Proteger interface com fail2ban"
+    "pt": "Proteger interface com fail2ban",
+    "ru": "Защитите веб-интерфейс с помощью fail2ban"
   },
   "Customization": {
     "es": "Personalización",
     "fr": "Personnalisation",
     "de": "Anpassung",
     "it": "Personalizzazione",
-    "pt": "Personalização"
+    "pt": "Personalização",
+    "ru": "Настройка"
   },
   "Customize bashrc": {
     "es": "Personalizar bashrc",
     "fr": "Personnaliser bashrc",
     "de": "Bashrc anpassen",
     "it": "Personalizzare bashrc",
-    "pt": "Personalizar bashrc"
+    "pt": "Personalizar bashrc",
+    "ru": "Настроить bashrc"
   },
   "Remove subscription banner": {
     "es": "Eliminar banner de suscripción",
     "fr": "Supprimer bannière abonnement",
     "de": "Abonnement-Banner entfernen",
     "it": "Rimuovere banner abbonamento",
-    "pt": "Remover banner de assinatura"
+    "pt": "Remover banner de assinatura",
+    "ru": "Удалить баннер подписки"
   },
   "Set up custom MOTD banner": {
     "es": "Configurar banner MOTD",
     "fr": "Configurer bannière MOTD",
     "de": "MOTD-Banner einrichten",
     "it": "Configurare banner MOTD",
-    "pt": "Configurar banner MOTD"
+    "pt": "Configurar banner MOTD",
+    "ru": "Настройте собственный баннер MOTD"
   },
   "Monitoring": {
     "es": "Monitoreo",
     "fr": "Surveillance",
     "de": "Überwachung",
     "it": "Monitoraggio",
-    "pt": "Monitoramento"
+    "pt": "Monitoramento",
+    "ru": "Мониторинг"
   },
   "Install OVH Real Time Monitoring": {
     "es": "Instalar monitoreo OVH",
     "fr": "Installer surveillance OVH",
     "de": "OVH-Echtzeitüberwachung installieren",
     "it": "Installare monitoraggio OVH",
-    "pt": "Instalar monitoramento OVH"
+    "pt": "Instalar monitoramento OVH",
+    "ru": "Установить OVH Real Time Monitoring"
   },
   "Performance": {
     "es": "Rendimiento",
     "fr": "Performance",
     "de": "Leistung",
     "it": "Prestazioni",
-    "pt": "Desempenho"
+    "pt": "Desempenho",
+    "ru": "Производительность"
   },
   "Use pigz for faster gzip compression": {
     "es": "Usar pigz para compresión",
     "fr": "Utiliser pigz pour compression",
     "de": "Pigz für schnellere Komprimierung",
     "it": "Usare pigz per compressione",
-    "pt": "Usar pigz para compressão"
+    "pt": "Usar pigz para compressão",
+    "ru": "Используйте pigz для более быстрого сжатия gzip"
   },
   "Optional": {
     "es": "Opcional",
     "fr": "Optionnel",
     "de": "Optional",
     "it": "Opzionale",
-    "pt": "Opcional"
+    "pt": "Opcional",
+    "ru": "Необязательные"
   },
   "Add latest Ceph support": {
     "es": "Añadir soporte Ceph",
     "fr": "Ajouter support Ceph",
     "de": "Ceph-Unterstützung hinzufügen",
     "it": "Aggiungere supporto Ceph",
-    "pt": "Adicionar suporte Ceph"
+    "pt": "Adicionar suporte Ceph",
+    "ru": "Добавить последнюю поддержку Ceph"
   },
   "Add Proxmox testing repository": {
     "es": "Añadir repositorio de pruebas",
     "fr": "Ajouter dépôt de test",
     "de": "Proxmox-Testrepository hinzufügen",
     "it": "Aggiungere repository di test",
-    "pt": "Adicionar repositório de teste"
+    "pt": "Adicionar repositório de teste",
+    "ru": "Добавить тестовый репозиторий Proxmox"
   },
   "Apply AMD CPU fixes": {
     "es": "Aplicar fixes para CPU AMD",
     "fr": "Appliquer correctifs CPU AMD",
     "de": "AMD-CPU-Fixes anwenden",
     "it": "Applicare fix CPU AMD",
-    "pt": "Aplicar correções CPU AMD"
+    "pt": "Aplicar correções CPU AMD",
+    "ru": "Применить исправления для процессора AMD"
   },
   "Enable High Availability services": {
     "es": "Activar Alta Disponibilidad",
     "fr": "Activer Haute Disponibilité",
     "de": "Hochverfügbarkeitsdienste aktivieren",
     "it": "Attivare Alta Disponibilità",
-    "pt": "Ativar Alta Disponibilidade"
+    "pt": "Ativar Alta Disponibilidade",
+    "ru": "Включить службы высокой доступности"
   },
   "Install and configure Fastfetch": {
     "es": "Instalar y configurar Fastfetch",
     "fr": "Installer et configurer Fastfetch",
     "de": "Fastfetch installieren und konfigurieren",
     "it": "Installare e configurare Fastfetch",
-    "pt": "Instalar e configurar Fastfetch"
+    "pt": "Instalar e configurar Fastfetch",
+    "ru": "Установка и настройка Fastfetch"
   },
   "Install Figurine": {
-    "es": "Instalar Figurine"
+    "es": "Instalar Figurine",
+    "ru": "Установить Figurine"
   },
   "ProxMenux Custom Script for Post-Installation": {
     "es": "Script personalizado post-instalación",
     "fr": "Script personnalisé post-installation",
     "de": "Benutzerdefiniertes Nachinstallationsskript",
     "it": "Script personalizzato post-installazione",
-    "pt": "Script personalizado pós-instalação"
+    "pt": "Script personalizado pós-instalação",
+    "ru": "Пользовательский скрипт для пост-установки"
   },
   "Choose options to configure:": {
     "es": "Elija opciones a configurar:",
     "fr": "Choisir options à configurer:",
     "de": "Optionen zum Konfigurieren wählen:",
     "it": "Scegliere opzioni da configurare:",
-    "pt": "Escolher opções para configurar:"
+    "pt": "Escolher opções para configurar:",
+    "ru": "Выберите параметры для настройки:"
   },
   "Use [SPACE] to select/deselect and [ENTER] to confirm:": {
     "es": "Use [ESPACIO] para seleccionar y [ENTER] para confirmar:",
     "fr": "Utilisez [ESPACE] pour sélectionner et [ENTRÉE] pour confirmer:",
     "de": "Benutzen Sie [LEERTASTE] zum Auswählen und [ENTER] zum Bestätigen:",
     "it": "Usa [SPAZIO] per selezionare e [INVIO] per confermare:",
-    "pt": "Use [ESPAÇO] para selecionar e [ENTER] para confirmar:"
+    "pt": "Use [ESPAÇO] para selecionar e [ENTER] para confirmar:",
+    "ru": "Используйте [ПРОБЕЛ] для выбора/отмены выбора и [ENTER] для подтверждения:"
   },
   "Installing common system utilities...": {
     "es": "Instalando utilidades del sistema...",
     "fr": "Installation des utilitaires système...",
     "de": "Systemdienstprogramme werden installiert...",
     "it": "Installazione utilità di sistema...",
-    "pt": "Instalando utilitários do sistema..."
+    "pt": "Instalando utilitários do sistema...",
+    "ru": "Установка общих системных утилит..."
   },
   "System utilities installed successfully": {
     "es": "Utilidades instaladas correctamente",
     "fr": "Utilitaires installés avec succès",
     "de": "Systemdienstprogramme erfolgreich installiert",
     "it": "Utilità installate con successo",
-    "pt": "Utilitários instalados com sucesso"
+    "pt": "Utilitários instalados com sucesso",
+    "ru": "Системные утилиты успешно установлены"
   },
   "Common system utilities installation completed": {
     "es": "Instalación de utilidades completada",
     "fr": "Installation des utilitaires terminée",
     "de": "Installation der Systemdienstprogramme abgeschlossen",
     "it": "Installazione utilità completata",
-    "pt": "Instalação de utilitários concluída"
+    "pt": "Instalação de utilitários concluída",
+    "ru": "Установка общих системных утилит завершена"
   },
   "Configuring APT to skip downloading additional languages": {
     "es": "Configurando APT para omitir idiomas",
     "fr": "Configuration d'APT pour ignorer langues",
     "de": "APT wird konfiguriert, um Sprachen zu überspringen",
     "it": "Configurazione APT per saltare lingue",
-    "pt": "Configurando APT para ignorar idiomas"
+    "pt": "Configurando APT para ignorar idiomas",
+    "ru": "Настройка APT для пропуска загрузки дополнительных языков"
   },
   "Setting APT language configuration...": {
     "es": "Configurando idioma de APT...",
     "fr": "Configuration langue APT...",
     "de": "APT-Sprachkonfiguration wird eingestellt...",
     "it": "Configurazione lingua APT...",
-    "pt": "Configurando idioma APT..."
+    "pt": "Configurando idioma APT...",
+    "ru": "Настройка языковой конфигурации APT..."
   },
   "APT language configuration updated": {
     "es": "Configuración de idioma APT actualizada",
     "fr": "Configuration langue APT mise à jour",
     "de": "APT-Sprachkonfiguration aktualisiert",
     "it": "Configurazione lingua APT aggiornata",
-    "pt": "Configuração de idioma APT atualizada"
+    "pt": "Configuração de idioma APT atualizada",
+    "ru": "Конфигурация языка для APT обновлена"
   },
   "APT configured to skip downloading additional languages": {
     "es": "APT configurado para omitir idiomas",
     "fr": "APT configuré pour ignorer langues",
     "de": "APT konfiguriert, um Sprachen zu überspringen",
     "it": "APT configurato per saltare lingue",
-    "pt": "APT configurado para ignorar idiomas"
+    "pt": "APT configurado para ignorar idiomas",
+    "ru": "APT настроен на пропуск загрузки дополнительных языков"
   },
   "GPUs and Coral-TPU Menu": {
     "es": "Menú GPUs y Coral-TPU",
     "fr": "Menu GPUs et Coral-TPU",
     "de": "GPUs und Coral-TPU Menü",
     "it": "Menu GPUs e Coral-TPU",
-    "pt": "Menu GPUs e Coral-TPU"
+    "pt": "Menu GPUs e Coral-TPU",
+    "ru": "Меню для графических процессоров и Coral-TPU"
   },
   "Add HW iGPU acceleration to an LXC": {
     "es": "Añadir aceleración iGPU a LXC",
     "fr": "Ajouter accélération iGPU à LXC",
     "de": "iGPU-Beschleunigung zu LXC hinzufügen",
     "it": "Aggiungere accelerazione iGPU a LXC",
-    "pt": "Adicionar aceleração iGPU a LXC"
+    "pt": "Adicionar aceleração iGPU a LXC",
+    "ru": "Добавить аппаратное ускорение iGPU в LXC"
   },
   "Add Coral TPU to an LXC": {
     "es": "Añadir Coral TPU a LXC",
     "fr": "Ajouter Coral TPU à LXC",
     "de": "Coral TPU zu LXC hinzufügen",
     "it": "Aggiungere Coral TPU a LXC",
-    "pt": "Adicionar Coral TPU a LXC"
+    "pt": "Adicionar Coral TPU a LXC",
+    "ru": "Добавить Coral TPU в LXC"
   },
   "Install/Update Coral TPU on the Host": {
     "es": "Instalar/Actualizar Coral TPU",
     "fr": "Installer/Mettre à jour Coral TPU",
     "de": "Coral TPU installieren/aktualisieren",
     "it": "Installare/Aggiornare Coral TPU",
-    "pt": "Instalar/Atualizar Coral TPU"
+    "pt": "Instalar/Atualizar Coral TPU",
+    "ru": "Установка/обновление Coral TPU на хосте"
   },
   "Import Disk Image to a VM": {
     "es": "Importar imagen a VM",
     "fr": "Importer image à VM",
     "de": "Festplattenabbild zu VM importieren",
     "it": "Importare immagine a VM",
-    "pt": "Importar imagem para VM"
+    "pt": "Importar imagem para VM",
+    "ru": "Импорт образа диска на виртуальную машину"
   },
   "Maintenance": {
     "es": "Mantenimiento",
     "fr": "Maintenance",
     "de": "Wartung",
     "it": "Manutenzione",
-    "pt": "Manutenção"
+    "pt": "Manutenção",
+    "ru": "Обслуживание"
   },
   "Containers": {
     "es": "Contenedores",
     "fr": "Conteneurs",
     "de": "Container",
     "it": "Container",
-    "pt": "Contêineres"
+    "pt": "Contêineres",
+    "ru": "Контейнеры"
   },
   "Applications": {
     "es": "Aplicaciones",
     "fr": "Applications",
     "de": "Anwendungen",
     "it": "Applicazioni",
-    "pt": "Aplicações"
+    "pt": "Aplicações",
+    "ru": "Приложения"
   },
   "Networking": {
     "es": "Redes",
     "fr": "Réseau",
     "de": "Netzwerk",
     "it": "Rete",
-    "pt": "Redes"
+    "pt": "Redes",
+    "ru": "Сеть"
   },
   "Select a script to execute": {
     "es": "Seleccione script a ejecutar",
     "fr": "Sélectionner script à exécuter",
     "de": "Skript zum Ausführen auswählen",
     "it": "Selezionare script da eseguire",
-    "pt": "Selecionar script para executar"
+    "pt": "Selecionar script para executar",
+    "ru": "Выберите скрипт для выполнения"
   },
   "Network Repair Menu": {
     "es": "Menú reparación de red",
     "fr": "Menu réparation réseau",
     "de": "Netzwerkreparatur-Menü",
     "it": "Menu riparazione rete",
-    "pt": "Menu reparação de rede"
+    "pt": "Menu reparação de rede",
+    "ru": "Меню восстановления сети"
   },
   "Choose an option:": {
     "es": "Elija una opción:",
     "fr": "Choisissez une option:",
     "de": "Wählen Sie eine Option:",
     "it": "Scegli un'opzione:",
-    "pt": "Escolha uma opção:"
+    "pt": "Escolha uma opção:",
+    "ru": "Выберите вариант:"
   },
   "Show IP Information": {
     "es": "Mostrar información IP",
     "fr": "Afficher information IP",
     "de": "IP-Informationen anzeigen",
     "it": "Mostrare informazioni IP",
-    "pt": "Mostrar informação IP"
+    "pt": "Mostrar informação IP",
+    "ru": "Показать информацию об IP"
   },
   "Current ProxMenux version:": {
     "es": "Versión actual de ProxMenux:",
     "fr": "Version actuelle de ProxMenux:",
     "de": "Aktuelle ProxMenux-Version:",
     "it": "Versione attuale di ProxMenux:",
-    "pt": "Versão atual do ProxMenux:"
+    "pt": "Versão atual do ProxMenux:",
+    "ru": "Текущая версия ProxMenux:"
   },
   "Installed components:": {
     "es": "Componentes instalados:",
     "fr": "Composants installés:",
     "de": "Installierte Komponenten:",
     "it": "Componenti installati:",
-    "pt": "Componentes instalados:"
+    "pt": "Componentes instalados:",
+    "ru": "Установленные компоненты:"
   },
   "already_installed": {
     "es": "ya instalado",
     "fr": "déjà installé",
     "de": "bereits installiert",
     "it": "già installato",
-    "pt": "já instalado"
+    "pt": "já instalado",
+    "ru": "уже установлено"
   },
   "already_exists": {
     "es": "ya existe",
     "fr": "existe déjà",
     "de": "existiert bereits",
     "it": "esiste già",
-    "pt": "já existe"
+    "pt": "já existe",
+    "ru": "уже существует"
   },
   "upgraded": {
     "es": "actualizado",
     "fr": "mis à jour",
     "de": "aktualisiert",
     "it": "aggiornato",
-    "pt": "atualizado"
+    "pt": "atualizado",
+    "ru": "обновлённый"
   },
   "installed": {
     "es": "instalado",
     "fr": "installé",
     "de": "installiert",
     "it": "installato",
-    "pt": "instalado"
+    "pt": "instalado",
+    "ru": "установлен"
   },
   "ProxMenu files:": {
     "es": "Archivos ProxMenu:",
     "fr": "Fichiers ProxMenu:",
     "de": "ProxMenu-Dateien:",
     "it": "File ProxMenu:",
-    "pt": "Arquivos ProxMenu:"
+    "pt": "Arquivos ProxMenu:",
+    "ru": "Файлы ProxMenu:"
   },
   "Virtual Environment:": {
     "es": "Entorno virtual:",
     "fr": "Environnement virtuel:",
     "de": "Virtuelle Umgebung:",
     "it": "Ambiente virtuale:",
-    "pt": "Ambiente virtual:"
+    "pt": "Ambiente virtual:",
+    "ru": "Виртуальная среда:"
   },
   "Installed": {
     "es": "Instalado",
     "fr": "Installé",
     "de": "Installiert",
     "it": "Installato",
-    "pt": "Instalado"
+    "pt": "Instalado",
+    "ru": "Установлено"
   },
   "Current language:": {
     "es": "Idioma actual:",
     "fr": "Langue actuelle:",
     "de": "Aktuelle Sprache:",
     "it": "Lingua attuale:",
-    "pt": "Idioma atual:"
+    "pt": "Idioma atual:",
+    "ru": "Текущий язык:"
   },
   "ProxMenux Information": {
     "es": "Información ProxMenux",
     "fr": "Information ProxMenux",
     "de": "ProxMenux-Information",
     "it": "Informazioni ProxMenux",
-    "pt": "Informação ProxMenux"
+    "pt": "Informação ProxMenux",
+    "ru": "Информация о ProxMenux"
   },
   "Optimize Memory": {
     "es": "Optimizar memoria",
     "fr": "Optimiser mémoire",
     "de": "Speicher optimieren",
     "it": "Ottimizzare memoria",
-    "pt": "Otimizar memória"
+    "pt": "Otimizar memória",
+    "ru": "Оптимизировать память"
   },
   "Verify Network": {
     "es": "Verificar red",
     "fr": "Vérifier réseau",
     "de": "Netzwerk überprüfen",
     "it": "Verificare rete",
-    "pt": "Verificar rede"
+    "pt": "Verificar rede",
+    "ru": "Проверить сеть"
   },
   "Next Steps:": {
     "es": "Próximos pasos:",
     "fr": "Étapes suivantes :",
     "de": "Nächste Schritte:",
-    "it": "Prossimi passaggi:"
+    "it": "Prossimi passaggi:",
+    "ru": "Следующие шаги:"
   },
   "Start the VM": {
     "es": "Iniciar la VM",
     "fr": "Démarrer la machine virtuelle",
     "de": "Die VM starten",
-    "it": "Avvia la VM"
+    "it": "Avvia la VM",
+    "ru": "Запустить виртуальную машину"
   },
   "Open the VM console and wait for the loader to boot": {
     "es": "Abre la consola de la VM y espera a que cargue el cargador",
     "fr": "Ouvrez la console de la VM et attendez que le chargeur démarre",
     "de": "Öffnen Sie die VM-Konsole und warten Sie, bis der Loader startet",
-    "it": "Apri la console della VM e attendi l'avvio del caricatore"
+    "it": "Apri la console della VM e attendi l'avvio del caricatore",
+    "ru": "Откройте консоль ВМ и дождитесь загрузки загрузчика."
   },
   "In the loader interface, follow the instructions to select your Synology model": {
     "es": "En la interfaz del cargador, sigue las instrucciones para seleccionar tu modelo de Synology DSM",
     "fr": "Dans l'interface du chargeur, suivez les instructions pour sélectionner votre modèle Synology DSM",
     "de": "In der Ladeoberfläche folgen Sie den Anweisungen, um Ihr Synology DSM-Modell auszuwählen",
-    "it": "Nell'interfaccia del caricatore, segui le istruzioni per selezionare il modello di Synology DSM"
+    "it": "Nell'interfaccia del caricatore, segui le istruzioni per selezionare il modello di Synology DSM",
+    "ru": "В интерфейсе загрузчика следуйте инструкциям, чтобы выбрать модель Synology."
   },
   "Complete the DSM installation wizard": {
     "es": "Completa el asistente de instalación de DSM",
     "fr": "Complétez l'assistant d'installation de DSM",
     "de": "Vervollständigen Sie den DSM-Installationsassistenten",
-    "it": "Completa la procedura guidata di installazione DSM"
+    "it": "Completa la procedura guidata di installazione DSM",
+    "ru": "Завершите работу мастера установки DSM"
   },
   "Find your device using https://finds.synology.com": {
     "es": "Encuentra tu dispositivo en https://finds.synology.com",
     "fr": "Trouvez votre appareil en utilisant https://finds.synology.com",
     "de": "Finden Sie Ihr Gerät unter https://finds.synology.com",
-    "it": "Trova il tuo dispositivo usando https://finds.synology.com"
+    "it": "Trova il tuo dispositivo usando https://finds.synology.com",
+    "ru": "Найдите своё устройство с помощью https://finds.synology.com"
   },
   "Help and Info Commands": {
-    "es": "Comandos de ayuda e información"
+    "es": "Comandos de ayuda e información",
+    "ru": "Команды помощи и информации"
   },
   "Create VM from template or script": {
-    "es": "Crear VM a partir de plantilla o script"
+    "es": "Crear VM a partir de plantilla o script",
+    "ru": "Создать виртуальную машину из шаблона или скрипта"
   },
   "Disk and Storage Manager": {
-    "es": "Administrador de disco y almacenamiento"
+    "es": "Administrador de disco y almacenamiento",
+    "ru": "Диспетчер дисков и хранилищ"
   },
   "Uninstall Tools": {
-    "es": "Desinstalar herramientas"
+    "es": "Desinstalar herramientas",
+    "ru": "Инструменты удаления"
   },
   "Uninstall Fastfetch": {
-    "es": "Desinstalar FastFetch"
+    "es": "Desinstalar FastFetch",
+    "ru": "Удалить Fastfetch"
   },
   "Select a tool to uninstall:": {
-    "es": "Seleccione una herramienta para desinstalar:"
+    "es": "Seleccione una herramienta para desinstalar:",
+    "ru": "Выберите инструмент для удаления:"
   },
   "Download accelerator": {
-    "es": "Acelerador de descargas"
+    "es": "Acelerador de descargas",
+    "ru": "Скачать ускоритель"
   },
   "Console GUI dialogs": {
-    "es": "Diálogos GUI de consola"
+    "es": "Diálogos GUI de consola",
+    "ru": "Диалоговые окна графического интерфейса консоли"
   },
   "Convert DOS/Unix text files": {
-    "es": "Convertir archivos de texto DOS/UNIX"
+    "es": "Convertir archivos de texto DOS/UNIX",
+    "ru": "Конвертировать текстовые файлы DOS/Unix"
   },
   "Generic log/command colorizer": {
-    "es": "Colorizador genérico de registros/comandos"
+    "es": "Colorizador genérico de registros/comandos",
+    "ru": "Универсальный раскрашиватель для журналов/команд"
   },
   "Interactive process viewer": {
-    "es": "Visor interactivo de procesos"
+    "es": "Visor interactivo de procesos",
+    "ru": "Интерактивный просмотрщик процессов"
   },
   "Modern resource monitor": {
-    "es": "Monitor moderno de recursos"
+    "es": "Monitor moderno de recursos",
+    "ru": "Современный монитор ресурсов"
   },
   "Real-time network usage": {
-    "es": "Uso de red en tiempo real"
+    "es": "Uso de red en tiempo real",
+    "ru": "Использование сети в реальном времени"
   },
   "Monitor disk I/O usage": {
-    "es": "Monitor de uso de E/S de disco"
+    "es": "Monitor de uso de E/S de disco",
+    "ru": "Мониторинг дискового ввода-вывода"
   },
   "Network performance testing": {
-    "es": "Pruebas de rendimiento de red"
+    "es": "Pruebas de rendimiento de red",
+    "ru": "Тестирование производительности сети"
   },
   "Manage IP sets": {
-    "es": "Administrar conjuntos de IP"
+    "es": "Administrar conjuntos de IP",
+    "ru": "Управление наборами IP-адресов"
   },
   "Network monitoring tool": {
-    "es": "Herramienta de monitoreo de red"
+    "es": "Herramienta de monitoreo de red",
+    "ru": "Инструмент сетевого мониторинга"
   },
   "Locate files quickly": {
-    "es": "Localizar archivos rápidamente"
+    "es": "Localizar archivos rápidamente",
+    "ru": "Быстро находите файлы"
   },
   "Access CPU MSRs": {
-    "es": "Acceder a MSRs de CPU"
+    "es": "Acceder a MSRs de CPU",
+    "ru": "Доступ к CPU MSR"
   },
   "Legacy networking tools": {
-    "es": "Herramientas de red heredadas"
+    "es": "Herramientas de red heredadas",
+    "ru": "Устаревшие сетевые инструменты"
   },
   "Non-interactive SSH login": {
-    "es": "Inicio de sesión SSH no interactivo"
+    "es": "Inicio de sesión SSH no interactivo",
+    "ru": "Неинтерактивный вход по SSH"
   },
   "Terminal multiplexer": {
-    "es": "Multiplexor de terminal"
+    "es": "Multiplexor de terminal",
+    "ru": "Терминальный мультиплексор"
   },
   "Extract ZIP files": {
-    "es": "Extraer archivos ZIP"
+    "es": "Extraer archivos ZIP",
+    "ru": "Извлечь ZIP-файлы"
   },
   "Create ZIP files": {
-    "es": "Crear archivos ZIP"
+    "es": "Crear archivos ZIP",
+    "ru": "Создать ZIP-файлы"
   },
   "VM disk utilities": {
-    "es": "Utilidades de disco para VM"
+    "es": "Utilidades de disco para VM",
+    "ru": "Дисковые утилиты виртуальной машины"
   },
   "Multi-source downloader": {
-    "es": "Descargador de múltiples fuentes"
+    "es": "Descargador de múltiples fuentes",
+    "ru": "Загрузчик из нескольких источников"
   },
   "Extract CAB files": {
-    "es": "Extraer archivos CAB"
+    "es": "Extraer archivos CAB",
+    "ru": "Извлечь CAB-файлы"
   },
   "Manage WIM images": {
-    "es": "Administrar imágenes WIM"
+    "es": "Administrar imágenes WIM",
+    "ru": "Управление образами WIM"
   },
   "Create ISO images": {
-    "es": "Crear imágenes ISO"
+    "es": "Crear imágenes ISO",
+    "ru": "Создание ISO-образов"
   },
   "Edit Windows registry/passwords": {
-    "es": "Editar registro/contraseñas de Windows"
+    "es": "Editar registro/contraseñas de Windows",
+    "ru": "Редактировать реестр/пароли Windows"
   },
   "Select the system utilities to install:": {
-    "es": "Seleccione las utilidades del sistema para instalar:"
+    "es": "Seleccione las utilidades del sistema para instalar:",
+    "ru": "Выберите системные утилиты для установки:"
   },
   "Installation cancelled by user": {
-    "es": "Instalación cancelada por el usuario"
+    "es": "Instalación cancelada por el usuario",
+    "ru": "Установка отменена пользователем"
   },
   "All changes applied. No reboot required.": {
-    "es": "Todos los cambios aplicados. No se requiere reinicio."
+    "es": "Todos los cambios aplicados. No se requiere reinicio.",
+    "ru": "Все изменения применены. Перезагрузка не требуется."
   },
   "Press Enter to return to menu...": {
-    "es": "Presione Enter para volver al menú..."
+    "es": "Presione Enter para volver al menú...",
+    "ru": "Нажмите Enter, чтобы вернуться в меню..."
   },
   "Help and Info": {
-    "es": "Ayuda e información"
+    "es": "Ayuda e información",
+    "ru": "Помощь и информация"
   },
   "Select a category of useful commands:": {
-    "es": "Seleccione una categoría de comandos útiles:"
+    "es": "Seleccione una categoría de comandos útiles:",
+    "ru": "Выберите категорию полезных команд:"
   },
   "Useful System Commands": {
-    "es": "Comandos útiles del sistema"
+    "es": "Comandos útiles del sistema",
+    "ru": "Полезные системные команды"
   },
   "VM and CT Management Commands": {
-    "es": "Comandos de gestión de VM y CT"
+    "es": "Comandos de gestión de VM y CT",
+    "ru": "Команды управления ВМ и контейнерами"
   },
   "Storage and Disks Commands": {
-    "es": "Comandos de almacenamiento y discos"
+    "es": "Comandos de almacenamiento y discos",
+    "ru": "Команды для хранилищ и дисков"
   },
   "Network Commands": {
-    "es": "Comandos de red"
+    "es": "Comandos de red",
+    "ru": "Команды для сети"
   },
   "Updates and Packages Commands": {
-    "es": "Comandos de actualizaciones y paquetes"
+    "es": "Comandos de actualizaciones y paquetes",
+    "ru": "Команды для обновлений и пакетов"
   },
   "GPU Passthrough Commands": {
-    "es": "Comandos de passthrough de GPU"
+    "es": "Comandos de passthrough de GPU",
+    "ru": "Команды проброса графического процессора"
   },
   "ZFS Management Commands": {
-    "es": "Comandos de gestión de ZFS"
+    "es": "Comandos de gestión de ZFS",
+    "ru": "Команды управления ZFS"
   },
   "Backup and Restore Commands": {
-    "es": "Comandos de copia de seguridad y restauración"
+    "es": "Comandos de copia de seguridad y restauración",
+    "ru": "Команды резервного копирования и восстановления"
   },
   "System CLI Tools": {
-    "es": "Herramientas CLI del sistema"
+    "es": "Herramientas CLI del sistema",
+    "ru": "Системные инструменты командной строки"
   },
   "Show Proxmox version": {
-    "es": "Mostrar versión de Proxmox"
+    "es": "Mostrar versión de Proxmox",
+    "ru": "Показать версию Proxmox"
   },
   "Detailed Proxmox version info": {
-    "es": "Información detallada de la versión de Proxmox"
+    "es": "Información detallada de la versión de Proxmox",
+    "ru": "Подробная информация о версии Proxmox"
   },
   "Check Proxmox Web UI status": {
-    "es": "Verificar el estado de la interfaz web de Proxmox"
+    "es": "Verificar el estado de la interfaz web de Proxmox",
+    "ru": "Проверить статус веб-интерфейса Proxmox"
   },
   "Restart Web UI proxy": {
-    "es": "Reiniciar el proxy de la interfaz web"
+    "es": "Reiniciar el proxy de la interfaz web",
+    "ru": "Перезапустить прокси-сервер веб-интерфейса"
   },
   "System errors and logs": {
-    "es": "Errores y registros del sistema"
+    "es": "Errores y registros del sistema",
+    "ru": "Системные ошибки и журналы"
   },
   "System uptime": {
-    "es": "Tiempo de actividad del sistema"
+    "es": "Tiempo de actividad del sistema",
+    "ru": "Время безотказной работы системы"
   },
   "System hostname and kernel info": {
-    "es": "Nombre de host del sistema e información del kernel"
+    "es": "Nombre de host del sistema e información del kernel",
+    "ru": "Имя хоста системы и информация о ядре"
   },
   "RAM and swap usage": {
-    "es": "Uso de RAM y swap"
+    "es": "Uso de RAM y swap",
+    "ru": "Использование оперативной памяти и подкачки"
   },
   "Pretty uptime format": {
-    "es": "Formato elegante de tiempo de actividad"
+    "es": "Formato elegante de tiempo de actividad",
+    "ru": "Улучшенный вывод времени безотказной работы системы"
   },
   "Last system boot time": {
-    "es": "Último tiempo de arranque del sistema"
+    "es": "Último tiempo de arranque del sistema",
+    "ru": "Время последней загрузки системы"
   },
   "Previous shutdowns": {
-    "es": "Apagados anteriores"
+    "es": "Apagados anteriores",
+    "ru": "Предыдущие отключения"
   },
   "Last 50 kernel log lines": {
-    "es": "Últimas 50 líneas de registro del kernel"
+    "es": "Últimas 50 líneas de registro del kernel",
+    "ru": "Последние 50 строк журнала ядра"
   },
   "OS release details": {
-    "es": "Detalles de la versión del sistema operativo"
+    "es": "Detalles de la versión del sistema operativo",
+    "ru": "Подробности выпуска ОС"
   },
   "Kernel and architecture info": {
-    "es": "Información del kernel y arquitectura"
+    "es": "Información del kernel y arquitectura",
+    "ru": "Информация о ядре и архитектуре"
   },
   "Uptime and who is logged in": {
-    "es": "Tiempo de actividad y quién está conectado"
+    "es": "Tiempo de actividad y quién está conectado",
+    "ru": "Время безотказной работы и кто вошёл в систему"
   },
   "Current user": {
-    "es": "Usuario actual"
+    "es": "Usuario actual",
+    "ru": "Текущий пользователь"
   },
   "Current user UID, GID and groups": {
-    "es": "UID, GID y grupos del usuario actual"
+    "es": "UID, GID y grupos del usuario actual",
+    "ru": "UID, GID и группы текущего пользователя"
   },
   "Logged-in users": {
-    "es": "Usuarios conectados"
+    "es": "Usuarios conectados",
+    "ru": "Зарегистрированные пользователи"
   },
   "User activity and uptime": {
-    "es": "Actividad del usuario y tiempo de actividad"
+    "es": "Actividad del usuario y tiempo de actividad",
+    "ru": "Активность пользователя и время безотказной работы"
   },
   "All users with UID and GID": {
-    "es": "Todos los usuarios con UID y GID"
+    "es": "Todos los usuarios con UID y GID",
+    "ru": "Все пользователи с UID и GID"
   },
   "Readable user table (UID, shell, etc.)": {
-    "es": "Tabla legible de usuarios (UID, shell, etc.)"
+    "es": "Tabla legible de usuarios (UID, shell, etc.)",
+    "ru": "Доступная для чтения таблица пользователей (UID, оболочка, итд.)"
   },
   " Back to previous menu or Esc + Enter": {
-    "es": "Volver al menú anterior o ESC + Enter"
+    "es": "Volver al menú anterior o ESC + Enter",
+    "ru": "Вернуться в предыдущее меню или Esc + Enter"
   },
   "Enter a number, or write or paste a command: ": {
-    "es": "Ingrese un número, o escriba o pegue un comando:"
+    "es": "Ingrese un número, o escriba o pegue un comando:",
+    "ru": "Введите число или напишите/вставьте команду:"
   },
   "List all virtual machines": {
-    "es": "Listar todas las máquinas virtuales"
+    "es": "Listar todas las máquinas virtuales",
+    "ru": "Список всех виртуальных машин"
   },
   "List all LXC containers": {
-    "es": "Listar todos los contenedores LXC"
+    "es": "Listar todos los contenedores LXC",
+    "ru": "Список всех контейнеров LXC"
   },
   "Start a virtual machine. Use the correct <vmid>": {
-    "es": "Iniciar una máquina virtual. Use el <vmid> correcto"
+    "es": "Iniciar una máquina virtual. Use el <vmid> correcto",
+    "ru": "Запустите виртуальную машину. Используйте правильный <vmid>"
   },
   "Start a container. Use the correct <ctid>": {
-    "es": "Iniciar un contenedor. Use el <ctid> correcto"
+    "es": "Iniciar un contenedor. Use el <ctid> correcto",
+    "ru": "Запустите контейнер. Используйте правильный <ctid>"
   },
   "Force stop a virtual machine. Use the correct <vmid>": {
-    "es": "Forzar detención de una máquina virtual. Use el <vmid> correcto"
+    "es": "Forzar detención de una máquina virtual. Use el <vmid> correcto",
+    "ru": "Принудительно остановить виртуальную машину. Используйте правильный <vmid>"
   },
   "Force stop a container. Use the correct <ctid>": {
-    "es": "Forzar detención de un contenedor. Use el <ctid> correcto"
+    "es": "Forzar detención de un contenedor. Use el <ctid> correcto",
+    "ru": "Принудительно остановить контейнер. Используйте правильный <ctid>"
   },
   "Show VM configuration. Use the correct <vmid>": {
-    "es": "Mostrar configuración de VM. Use el <vmid> correcto"
+    "es": "Mostrar configuración de VM. Use el <vmid> correcto",
+    "ru": "Показать конфигурацию ВМ. Используйте правильный <vmid>"
   },
   "Show container configuration. Use the correct <ctid>": {
-    "es": "Mostrar la configuración del contenedor. Use el <ctid> correcto"
+    "es": "Mostrar la configuración del contenedor. Use el <ctid> correcto",
+    "ru": "Показать конфигурацию контейнера. Используйте правильный <ctid>"
   },
   "Delete a VM (irreversible). Use the correct <vmid>": {
-    "es": "Eliminar una VM (irreversible). Use el <vmid> correcto"
+    "es": "Eliminar una VM (irreversible). Use el <vmid> correcto",
+    "ru": "Удалить ВМ (необратимо). Используйте правильный <vmid>"
   },
   "Delete a CT (irreversible). Use the correct <ctid>": {
-    "es": "Eliminar un CT (irreversible). Use el <ctid> correcto"
+    "es": "Eliminar un CT (irreversible). Use el <ctid> correcto",
+    "ru": "Удалить контейнер (необратимо). Используйте правильный <ctid>"
   },
   "root and real users only": {
-    "es": "Solo usuarios root y reales"
+    "es": "Solo usuarios root y reales",
+    "ru": "только root и реальные пользователи"
   },
   "Show CT users in table format": {
-    "es": "Mostrar usuarios de CT en formato de tabla"
+    "es": "Mostrar usuarios de CT en formato de tabla",
+    "ru": "Показать пользователей контейнера в табличном формате"
   },
   "Top memory processes in CT": {
-    "es": "Procesos con mayor uso de memoria en CT"
+    "es": "Procesos con mayor uso de memoria en CT",
+    "ru": "Основные процессы в памяти в контейнере"
   },
   "List block devices and partitions": {
-    "es": "Listar dispositivos de bloque y particiones"
+    "es": "Listar dispositivos de bloque y particiones",
+    "ru": "Список блочных устройств и разделов"
   },
   "List disks with detailed info": {
-    "es": "Listar discos con información detallada"
+    "es": "Listar discos con información detallada",
+    "ru": "Список дисков с подробной информацией"
   },
   "Show disk usage by mount point": {
-    "es": "Mostrar uso de disco por punto de montaje"
+    "es": "Mostrar uso de disco por punto de montaje",
+    "ru": "Показать использование диска по точкам монтирования"
   },
   "Display physical volumes (LVM)": {
-    "es": "Mostrar volúmenes físicos (LVM)"
+    "es": "Mostrar volúmenes físicos (LVM)",
+    "ru": "Отображение физических томов (LVM)"
   },
   "Display volume groups (LVM)": {
-    "es": "Mostrar grupos de volumen (LVM)"
+    "es": "Mostrar grupos de volumen (LVM)",
+    "ru": "Группы отображения томов (LVM)"
   },
   "Display logical volumes (LVM)": {
-    "es": "Mostrar volúmenes lógicos (LVM)"
+    "es": "Mostrar volúmenes lógicos (LVM)",
+    "ru": "Отображение логических томов (LVM)"
   },
   "Show Proxmox storage configuration": {
-    "es": "Mostrar configuración de almacenamiento de Proxmox"
+    "es": "Mostrar configuración de almacenamiento de Proxmox",
+    "ru": "Показать конфигурацию хранилища Proxmox"
   },
   "Show UUID and filesystem type of block devices": {
-    "es": "Mostrar UUID y tipo de sistema de archivos de dispositivos de bloque"
+    "es": "Mostrar UUID y tipo de sistema de archivos de dispositivos de bloque",
+    "ru": "Показать UUID и тип файловой системы блочных устройств"
   },
   "List disk persistent identifiers": {
-    "es": "Listar identificadores persistentes de disco"
+    "es": "Listar identificadores persistentes de disco",
+    "ru": "Список постоянных идентификаторов диска"
   },
   "Detailed partition layout with GPT info": {
-    "es": "Diseño detallado de particiones con información GPT"
+    "es": "Diseño detallado de particiones con información GPT",
+    "ru": "Подробная структура разделов с информацией GPT"
   },
   "Show mounted storage devices": {
-    "es": "Mostrar dispositivos de almacenamiento montados"
+    "es": "Mostrar dispositivos de almacenamiento montados",
+    "ru": "Показать смонтированные устройства хранения данных"
   },
   "Show all active mounts from the kernel": {
-    "es": "Mostrar todos los montajes activos desde el kernel"
+    "es": "Mostrar todos los montajes activos desde el kernel",
+    "ru": "Показать все активные монтирования из ядра"
   },
   "Show network interfaces and IPs": {
-    "es": "Mostrar interfaces de red e IPs"
+    "es": "Mostrar interfaces de red e IPs",
+    "ru": "Показать сетевые интерфейсы и IP-адреса"
   },
   "Show routing table": {
-    "es": "Mostrar tabla de enrutamiento"
+    "es": "Mostrar tabla de enrutamiento",
+    "ru": "Показать таблицу маршрутизации"
   },
   "Check connectivity with another host": {
-    "es": "Verificar conectividad con otro host"
+    "es": "Verificar conectividad con otro host",
+    "ru": "Проверить соединение с другим хостом"
   },
   "Show configured network bridges": {
-    "es": "Mostrar puentes de red configurados"
+    "es": "Mostrar puentes de red configurados",
+    "ru": "Показать настроенные сетевые мосты"
   },
   "Reload network configuration (ifupdown2)": {
-    "es": "Recargar configuración de red (ifupdown2)"
+    "es": "Recargar configuración de red (ifupdown2)",
+    "ru": "Перезагрузить конфигурацию сети (ifupdown2)"
   },
   "Show raw network configuration": {
-    "es": "Mostrar configuración de red sin procesar"
+    "es": "Mostrar configuración de red sin procesar",
+    "ru": "Показать исходную конфигурацию сети"
   },
   "Show traffic statistics per interface": {
-    "es": "Mostrar estadísticas de tráfico por interfaz"
+    "es": "Mostrar estadísticas de tráfico por interfaz",
+    "ru": "Показать статистику трафика по интерфейсам"
   },
   "Show Ethernet device info": {
-    "es": "Mostrar información de dispositivos Ethernet"
+    "es": "Mostrar información de dispositivos Ethernet",
+    "ru": "Показать информацию об устройстве Ethernet"
   },
   "Show DNS resolution status": {
-    "es": "Mostrar estado de resolución DNS"
+    "es": "Mostrar estado de resolución DNS",
+    "ru": "Показать статус DNS"
   },
   "DNS lookup for a domain": {
-    "es": "Búsqueda DNS para un dominio"
+    "es": "Búsqueda DNS para un dominio",
+    "ru": "Поиск DNS для домена"
   },
   "Show listening ports (TCP/UDP)": {
-    "es": "Mostrar puertos en escucha (TCP/UDP)"
+    "es": "Mostrar puertos en escucha (TCP/UDP)",
+    "ru": "Показать прослушиваемые порты (TCP/UDP)"
   },
   "Show active firewall rules (iptables)": {
-    "es": "Mostrar reglas activas de firewall (iptables)"
+    "es": "Mostrar reglas activas de firewall (iptables)",
+    "ru": "Показать активные правила брандмауэра (iptables)"
   },
   "Show nftables rules": {
-    "es": "Mostrar reglas de nftables"
+    "es": "Mostrar reglas de nftables",
+    "ru": "Показать правила nftables"
   },
   "Check Proxmox firewall status": {
-    "es": "Verificar estado del firewall de Proxmox"
+    "es": "Verificar estado del firewall de Proxmox",
+    "ru": "Проверить статус брандмауэра Proxmox"
   },
   "Compile firewall rules for all nodes": {
-    "es": "Compilar reglas de firewall para todos los nodos"
+    "es": "Compilar reglas de firewall para todos los nodos",
+    "ru": "Скомпилируйте правила брандмауэра для всех узлов"
   },
   "Reload Proxmox firewall rules": {
-    "es": "Recargar reglas de firewall de Proxmox"
+    "es": "Recargar reglas de firewall de Proxmox",
+    "ru": "Перезагрузить правила брандмауэра Proxmox"
   },
   "Update and upgrade all system packages": {
-    "es": "Actualizar todos los paquetes del sistema"
+    "es": "Actualizar todos los paquetes del sistema",
+    "ru": "Обновить все системные пакеты"
   },
   "Full system upgrade, including dependencies": {
-    "es": "Actualización completa del sistema, incluyendo dependencias"
+    "es": "Actualización completa del sistema, incluyendo dependencias",
+    "ru": "Полное обновление системы, включая зависимости"
   },
   "Update Proxmox package lists": {
-    "es": "Actualizar listas de paquetes de Proxmox"
+    "es": "Actualizar listas de paquetes de Proxmox",
+    "ru": "Обновить списки пакетов Proxmox"
   },
   "Show available Proxmox upgrades": {
-    "es": "Mostrar actualizaciones disponibles de Proxmox"
+    "es": "Mostrar actualizaciones disponibles de Proxmox",
+    "ru": "Показать доступные обновления Proxmox"
   },
   "Remove unused packages and their config": {
-    "es": "Eliminar paquetes no utilizados y su configuración"
+    "es": "Eliminar paquetes no utilizados y su configuración",
+    "ru": "Удалить неиспользуемые пакеты и их конфигурацию"
   },
   "List NVIDIA PCI devices": {
-    "es": "Listar dispositivos PCI de NVIDIA"
+    "es": "Listar dispositivos PCI de NVIDIA",
+    "ru": "Список устройств NVIDIA PCI"
   },
   "List all VGA compatible devices": {
-    "es": "Listar todos los dispositivos compatibles con VGA"
+    "es": "Listar todos los dispositivos compatibles con VGA",
+    "ru": "Список всех VGA-совместимых устройств"
   },
   "Check VFIO module messages": {
-    "es": "Verificar mensajes del módulo VFIO"
+    "es": "Verificar mensajes del módulo VFIO",
+    "ru": "Проверить сообщения модуля VFIO"
   },
   "Review VFIO passthrough configuration": {
-    "es": "Revisar configuración de passthrough VFIO"
+    "es": "Revisar configuración de passthrough VFIO",
+    "ru": "Обзор конфигурации проброса VFIO"
   },
   "Apply initramfs changes (VFIO)": {
-    "es": "Aplicar cambios de initramfs (VFIO)"
+    "es": "Aplicar cambios de initramfs (VFIO)",
+    "ru": "Применить изменения initramfs (VFIO)"
   },
   "Review GRUB options for IOMMU": {
-    "es": "Revisar opciones de GRUB para IOMMU"
+    "es": "Revisar opciones de GRUB para IOMMU",
+    "ru": "Обзор опций GRUB для IOMMU"
   },
   "Apply GRUB changes": {
-    "es": "Aplicar cambios de GRUB"
+    "es": "Aplicar cambios de GRUB",
+    "ru": "Применить изменения GRUB"
   },
   "Show ZFS pool status": {
-    "es": "Mostrar estado del pool ZFS"
+    "es": "Mostrar estado del pool ZFS",
+    "ru": "Показать статус пула ZFS"
   },
   "List all ZFS pools": {
-    "es": "Listar todos los pools ZFS"
+    "es": "Listar todos los pools ZFS",
+    "ru": "Список всех пулов ZFS"
   },
   "List ZFS datasets and snapshots": {
-    "es": "Listar datasets e instantáneas ZFS"
+    "es": "Listar datasets e instantáneas ZFS",
+    "ru": "Список наборов данных и снимков ZFS"
   },
   "Start scrub for a ZFS pool": {
-    "es": "Iniciar scrub para un pool ZFS"
+    "es": "Iniciar scrub para un pool ZFS",
+    "ru": "Начать очистку для пула ZFS"
   },
   "Create a new dataset in a ZFS pool": {
-    "es": "Crear un nuevo dataset en un pool ZFS"
+    "es": "Crear un nuevo dataset en un pool ZFS",
+    "ru": "Создать новый набор данных в пуле ZFS"
   },
   "Destroy a ZFS dataset (irreversible)": {
-    "es": "Destruir un dataset ZFS (irreversible)"
+    "es": "Destruir un dataset ZFS (irreversible)",
+    "ru": "Уничтожить набор данных ZFS (необратимо)"
   },
   "List importable ZFS pools": {
-    "es": "Listar pools ZFS importables"
+    "es": "Listar pools ZFS importables",
+    "ru": "Список импортируемых пулов ZFS"
   },
   "Import a ZFS pool": {
-    "es": "Importar un pool ZFS"
+    "es": "Importar un pool ZFS",
+    "ru": "Импорт пула ZFS"
   },
   "Export a ZFS pool": {
-    "es": "Exportar un pool ZFS"
+    "es": "Exportar un pool ZFS",
+    "ru": "Экспорт пула ZFS"
   },
   "Mount all datasets": {
-    "es": "Montar todos los datasets"
+    "es": "Montar todos los datasets",
+    "ru": "Смонтировать все наборы данных"
   },
   "Mount specific dataset": {
-    "es": "Montar dataset específico"
+    "es": "Montar dataset específico",
+    "ru": "Смонтировать определенный набор данных"
   },
   "Verbose pool status": {
-    "es": "Estado detallado del pool"
+    "es": "Estado detallado del pool",
+    "ru": "Подробный статус пула"
   },
   "ZFS command history": {
-    "es": "Historial de comandos ZFS"
+    "es": "Historial de comandos ZFS",
+    "ru": "История команд ZFS"
   },
   "Clear pool error state": {
-    "es": "Limpiar estado de error del pool"
+    "es": "Limpiar estado de error del pool",
+    "ru": "Очистить состояние ошибки пула"
   },
   "Backup to a specific directory": {
-    "es": "Hacer copia de seguridad a un directorio específico"
+    "es": "Hacer copia de seguridad a un directorio específico",
+    "ru": "Резервное копирование в определенный каталог"
   },
   "Backup all VMs and CTs": {
-    "es": "Hacer copia de seguridad de todas las VMs y CTs"
+    "es": "Hacer copia de seguridad de todas las VMs y CTs",
+    "ru": "Резервное копирование всех виртуальных машин и контейнеров"
   },
   "Restore a VM from backup": {
-    "es": "Restaurar una VM desde copia de seguridad"
+    "es": "Restaurar una VM desde copia de seguridad",
+    "ru": "Восстановление виртуальной машины из резервной копии"
   },
   "Restore a CT from backup": {
-    "es": "Restaurar un CT desde copia de seguridad"
+    "es": "Restaurar un CT desde copia de seguridad",
+    "ru": "Восстановить контейнер из резервной копии"
   },
   "List local backups": {
-    "es": "Listar copias de seguridad locales"
+    "es": "Listar copias de seguridad locales",
+    "ru": "Список локальных резервных копий"
   },
   "List backups in a specific storage": {
-    "es": "Listar copias de seguridad en un almacenamiento específico"
+    "es": "Listar copias de seguridad en un almacenamiento específico",
+    "ru": "Список резервных копий в определенном хранилище"
   },
   "Show vzdump backup configuration": {
-    "es": "Mostrar configuración de copia de seguridad vzdump"
+    "es": "Mostrar configuración de copia de seguridad vzdump",
+    "ru": "Показать конфигурацию резервного копирования vzdump"
   },
   "Decompress backup manually": {
-    "es": "Descomprimir copia de seguridad manualmente"
+    "es": "Descomprimir copia de seguridad manualmente",
+    "ru": "Распаковать резервную копию вручную"
   },
   "Show standard exclude patterns": {
-    "es": "Mostrar patrones de exclusión estándar"
+    "es": "Mostrar patrones de exclusión estándar",
+    "ru": "Показать стандартные шаблоны исключения"
   },
   "Interactive process viewer (press q to exit)": {
-    "es": "Visor interactivo de procesos (presione q para salir)"
+    "es": "Visor interactivo de procesos (presione q para salir)",
+    "ru": "Интерактивный просмотрщик процессов (нажмите q, чтобы выйти)"
   },
   "Modern resource monitor (press q to exit)": {
-    "es": "Monitor moderno de recursos (presione q para salir)"
+    "es": "Monitor moderno de recursos (presione q para salir)",
+    "ru": "Современный монитор ресурсов (нажмите q, чтобы выйти)"
   },
   "Real-time bandwidth usage (press q to exit)": {
-    "es": "Uso de ancho de banda en tiempo real (presione q para salir)"
+    "es": "Uso de ancho de banda en tiempo real (presione q para salir)",
+    "ru": "Использование полосы пропускания в реальном времени (нажмите q, чтобы выйти)"
   },
   "Monitor disk I/O usage (press q to exit)": {
-    "es": "Monitor de uso de E/S de disco (presione q para salir)"
+    "es": "Monitor de uso de E/S de disco (presione q para salir)",
+    "ru": "Мониторинг использования дискового ввода-вывода (нажмите q для выхода)"
   },
   "Terminal multiplexer (Ctrl+b then d to detach, or type exit)": {
-    "es": "Multiplexor de terminal (Ctrl+b luego d para desacoplar, o escriba exit)"
+    "es": "Multiplexor de terminal (Ctrl+b luego d para desacoplar, o escriba exit)",
+    "ru": "Терминальный мультиплексор (Ctrl+b, затем d для отсоединения или введите exit)"
   },
   "Network throughput test (client/server)": {
-    "es": "Prueba de rendimiento de red (cliente/servidor)"
+    "es": "Prueba de rendimiento de red (cliente/servidor)",
+    "ru": "Тест пропускной способности сети (клиент/сервер)"
   },
   "Real-time network monitoring (press q to exit)": {
-    "es": "Monitoreo de red en tiempo real (presione q para salir)"
+    "es": "Monitoreo de red en tiempo real (presione q para salir)",
+    "ru": "Мониторинг сети в реальном времени (нажмите q, чтобы выйти)"
   },
   "Read/write CPU model-specific registers": {
-    "es": "Leer/escribir registros específicos del modelo de CPU"
+    "es": "Leer/escribir registros específicos del modelo de CPU",
+    "ru": "Чтение/запись регистров, специфичных для модели ЦП"
   },
   "Legacy network tools (e.g., ifconfig)": {
-    "es": "Herramientas de red heredadas (p. ej., ifconfig)"
+    "es": "Herramientas de red heredadas (p. ej., ifconfig)",
+    "ru": "Устаревшие сетевые инструменты (например, ifconfig)"
   },
   "Lookup domain registration info": {
-    "es": "Buscar información de registro de dominio"
+    "es": "Buscar información de registro de dominio",
+    "ru": "Поиск информации о регистрации домена"
   },
   "Do you want to run the post-installation script from": {
-    "es": "¿Quieres ejecutar el script post-instalación desde"
+    "es": "¿Quieres ejecutar el script post-instalación desde",
+    "ru": "Хотите ли вы запустить послеустановочный скрипт из"
   },
   "Manage and inspect VM disk images": {
-    "es": "Administrar e inspeccionar imágenes de disco de VM"
+    "es": "Administrar e inspeccionar imágenes de disco de VM",
+    "ru": "Управление и проверка образов дисков виртуальных машин"
   }
 }
