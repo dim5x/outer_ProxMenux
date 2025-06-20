@@ -225,7 +225,7 @@ echo
 msg_title "ProxMenux has been installed successfull"
 echo
 echo -ne "${GN}"
-type_text "To run  ProxMenux, simply execute this command in the console or terminal:"
+type_text "To run Вася ран ProxMenux, simply execute this command in the console or terminal:"
 echo -e "${YWB}    menu${CL}"
 echo
 
