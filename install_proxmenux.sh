@@ -35,8 +35,8 @@
 
 
 # Configuration ============================================
-REPO_URL="https://raw.githubusercontent.com/MacRimi/ProxMenux/main"
-UTILS_URL="https://raw.githubusercontent.com/MacRimi/ProxMenux/main/scripts/utils.sh"
+REPO_URL="https://raw.githubusercontent.com/dim5x/outer_ProxMenux/main"
+UTILS_URL="https://raw.githubusercontent.com/dim5x/outer_ProxMenux/main/scripts/utils.sh"
 INSTALL_DIR="/usr/local/bin"
 BASE_DIR="/usr/local/share/proxmenux"
 CONFIG_FILE="$BASE_DIR/config.json"

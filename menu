@@ -55,7 +55,7 @@ initialize_config() {
         show_proxmenux_logo
         sleep 2
         LANGUAGE=$(whiptail --title "$(translate "Select Language")" --menu "$(translate "Choose a language for the menu:")" 20 60 12 \
-            "en" "$(translate "English (Recommended)")" \
+            "en" "$(translate "English (Not Recommended)")" \
             "es" "$(translate "Spanish")" \
             "fr" "$(translate "French")" \
             "de" "$(translate "German")" \
